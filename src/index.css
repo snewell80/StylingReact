@@ -36,6 +36,7 @@ button:focus {
   color: white;
 }
 
+/*
 .controls {
   display: flex;
   flex-direction: column;
@@ -73,6 +74,7 @@ input.invalid {
   border-color: #f73f3f;
   background-color: #fed2d2;
 }
+*/
 
 .actions {
   display: flex;
@@ -80,6 +82,7 @@ input.invalid {
   gap: 1rem;
 }
 
+/*
 .button {
   padding: 1rem 2rem;
   font-weight: 600;
@@ -103,3 +106,4 @@ input.invalid {
 .text-button:hover {
   color: #f0920e;
 }
+*/
